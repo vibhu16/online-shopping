@@ -1,4 +1,4 @@
-package com.vivek.spring.shoppingbackend;
+package com.vivek.shoppingbackend;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

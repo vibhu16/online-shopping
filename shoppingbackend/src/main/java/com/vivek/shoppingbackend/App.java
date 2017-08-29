@@ -1,4 +1,4 @@
-package com.vivek.spring.shoppingbackend;
+package com.vivek.shoppingbackend;
 
 /**
  * Hello world!
